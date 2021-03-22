@@ -1,0 +1,5 @@
+proxy:
+  port: 8080
+  bypass:
+    host: api.frankfurter.app/latest?to=USD%2CRUB
+    port: 8888
